@@ -3,10 +3,10 @@
 Changes the styles on the [ZSH Documentation Page](http://zsh.sourceforge.net/Doc/Release/Shell-Grammar.html#Alternate-Forms-For-Complex-Commands).
 
 Before:
-imgs/before.png
+![before](imgs/before.png)
 
 After:
-imgs/after
+![after](imgs/after.png)
 
 So much colour it's like a 🦄 hurling 🌈 .
 
